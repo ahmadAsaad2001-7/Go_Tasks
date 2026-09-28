@@ -1,0 +1,8 @@
+POST http://localhost:4001/auth/signup
+content-type: application/json
+
+{
+    "email": "admin@test.com",
+    "password": "password123",
+    "role": "admin"
+}

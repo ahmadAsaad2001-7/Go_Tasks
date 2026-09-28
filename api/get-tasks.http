@@ -1,0 +1,2 @@
+GET http://localhost:4001/projects/1/tasks?status=todo&page=1&limit=10
+Authorization: Bearer YOUR_TOKEN_HERE

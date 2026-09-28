@@ -1,0 +1,8 @@
+POST http://localhost:4001/projects
+content-type: application/json
+Authorization: Bearer YOUR_TOKEN_HERE
+
+{
+    "name": "My First Project",
+    "description": "A test project for learning Go"
+}

@@ -1,0 +1,10 @@
+POST http://localhost:4001/projects/1/tasks
+content-type: application/json
+Authorization: Bearer YOUR_TOKEN_HERE
+
+{
+    "title": "Learn Go APIs",
+    "description": "Build a task manager",
+    "status": "todo",
+    "assignee_id": 1
+}
