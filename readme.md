@@ -1,4 +1,3 @@
-nderstand exactly how everything works and how to run it.
 markdown
 
 # 🚀 Task Manager API - Go Learning Notes
